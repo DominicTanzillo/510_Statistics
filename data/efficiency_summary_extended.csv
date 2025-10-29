@@ -1,0 +1,8 @@
+Metric,Value
+Volatility Ratio (market / poll),624.1646774765853
+Mean Reversion (poll),-0.06866984178849837
+Mean Reversion (market),-0.13311901794210196
+Bias Persistence (poll),0.9942314352001579
+Bias Persistence (market),0.9524701453053183
+Residual Variance (poll),5.4366010793579654e-05
+Residual Variance (market),0.0038820569754842195
