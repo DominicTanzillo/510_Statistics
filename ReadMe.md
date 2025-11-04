@@ -10,6 +10,7 @@ Roshan Gill
 This project investigates whether perceived sex (male vs female) predicts backpack carrying behavior (left, right, both, or none) among Duke University freshmen exiting the C1 bus.
 The dataset is simple but demonstrates how to structure an observational behavioral study into a formal Chi-Square Test of Independence, including a power analysis and post-hoc residual testing.
 
+```
 Repository Structure
 ├── data/
 │   ├── dominic_obs.csv
@@ -22,6 +23,7 @@ Repository Structure
 ├── Freshman_Backpacks.ipynb      # main analysis notebook
 ├── bag_observation_matrix.csv    # final cleaned contingency table
 └── README.md
+```
 
 ### Packages
 
